@@ -10,7 +10,7 @@
 
 ### Video
 
-Video is available at screens/Untitled_ Mar 24, 2020 12_01 PM.mp4
+Video is available at screens/video.mp4
 
 ## Available Scripts
 
