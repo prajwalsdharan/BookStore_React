@@ -6,7 +6,8 @@
 
 ### Screenshot
 
-<img src="https://github.com/prajwalsdharan/BookStore_React/screens/login_screen.png"/>
+![Alt text](screens/login_screen.png)
+
 
 ## Available Scripts
 
