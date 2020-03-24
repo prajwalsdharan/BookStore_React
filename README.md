@@ -1,4 +1,5 @@
 <h1>Book Land - UI</h1>
+<p>An Online Book Store</p>
 
 ### Steps to install
 1. Required node installation
