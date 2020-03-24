@@ -2,6 +2,7 @@
 1. Required node installation
 2. Run "npm install"
 3. Run "npm start"
+4. This talks with Login / Search API's of the https://github.com/prajwalsdharan/BookStore app
 
 
 ## Available Scripts
